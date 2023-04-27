@@ -1022,6 +1022,7 @@
 - RustedBones/akka-http-metrics
 - RustedBones/akka-http-scalapb
 - RustedBones/akka-http-thrift
+- RustedBones/pekko-http-metrics
 - RustedBones/sc4s
 - RustedBones/scout
 - RustedBones/taxonomy
